@@ -422,6 +422,7 @@ var resizePizzas = function(size) {
   changeSliderLabel(size);
 
   // Iterates through pizza elements on the page and changes their widths
+  // Use Switch to redirect the size of the pizzas
   function changePizzaSizes(size) {
     switch(size) {
       case "1":
