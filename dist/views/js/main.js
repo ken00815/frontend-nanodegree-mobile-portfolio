@@ -545,6 +545,7 @@ window.addEventListener('scroll', updatePositions);
 document.addEventListener('DOMContentLoaded', function() {
     var cols = 8;
     var s = 256;
+    //Calculate dynamicly to fill up the screen with the pizzas 
     var innerHeight = window.innerHeight/3;
 
     for (var i = 0; i < innerHeight; i++) {
