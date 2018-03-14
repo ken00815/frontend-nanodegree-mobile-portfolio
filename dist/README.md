@@ -1,3 +1,8 @@
+##Running instructions
+1. Open index.html in your browser (Google Chrome is highly recommended).
+2. Click the hyperlinks if you want to see further.
+3. For the pizzeria, you can use the slider to change the size of the pizza images.
+
 ## Optimizations details for index.html
 1. Split the css code for printing into other css file and add "print" media query for it. So that those CSS code will not be rendering while users are not printing.
 2. Inline the CSS code for moblie screen size and add media query 
